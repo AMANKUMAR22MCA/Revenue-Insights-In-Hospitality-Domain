@@ -17,7 +17,7 @@ Power BI Dashboard for analyzing key revenue metrics in the hospitality industry
 📆 Weekdays<br>
 ## 🎥 Watch the Demo:
 
-(Click the image to watch the full demo)
+(https://www.youtube.com/watch?v=J_mYNNDf9iY)
 
 ### 🖼️ Dashboard Preview:
 Here are some snapshots of the dashboard in action:
