@@ -31,9 +31,9 @@ Here are some snapshots of the dashboard in action:
 Clone the repository.
 Open the .pbix file in Power BI Desktop.
 Update the data source if needed.
-Explore and filter the dashboard interactively!
-🔗 Key Features:
-Interactive filtering for real-time insights.
+Explore and filter the dashboard interactively! <br>
+🔗 Key Features:<br>
+Interactive filtering for real-time insights.<br>
 Clear visualizations: Semi-donut charts, line charts, and detailed tables.
 Weekly comparison: Track performance with WoW metrics.
 Room segmentation: Analyze revenue by luxury or business categories.
